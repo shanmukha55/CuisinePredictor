@@ -1,8 +1,4 @@
-## Gnaneswar Kolla
 
-## Project Title
-
-### CS5293,Spring 2022 Project 2
 
 ## Project Description
 
